@@ -29,7 +29,7 @@ Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification
 
 ## 專題
 ### Our Team  
-> 指導老師：東吳巨資蔡芸琤老師
+> 指導老師：東吳巨資蔡芸琤老師、東吳經濟林巧涵老師
 
 | 組員姓名   | 學校 / 科系   | 
 | :---: | :-------------: | 
