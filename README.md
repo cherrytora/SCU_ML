@@ -28,6 +28,16 @@ Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification
 
 
 ## 專題
+### Our Team  
+> 指導老師：東吳巨資蔡芸琤老師
+
+| 組員姓名   | 學校 / 科系   | 
+| :---: | :-------------: | 
+| 王怡人   | 東吳巨資       | 
+| 張文綺   | 東吳巨資       |
+| 張耀仁   | 東吳經濟       | 
+| 陳博勁   | 東吳經濟       | 
+> 過程紀錄
 * [專題會議記錄](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/20210428-0526.md)  
 * [專題進度報告1](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/0519%E7%AC%AC%E5%9B%9B%E7%B5%84%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf)  
 * [專題進度報告2](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/0602%E7%AC%AC%E5%9B%9B%E7%B5%84%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf)  
