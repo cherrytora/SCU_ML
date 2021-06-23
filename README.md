@@ -47,5 +47,5 @@ Kaggle 連結:[Leaf Classification](https://www.kaggle.com/c/leaf-classification
 * [專題前導影片](https://youtu.be/ooUpvkW6EfA)
 * [期末專題報告影片](https://youtu.be/C7gd4YjQa8Q)
 * [期末專題簡報](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/%E7%AC%AC%E5%9B%9B%E7%B5%84%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf)
-* [財務比率解釋與文獻](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/%E8%B2%A1%E5%8B%99%E6%AF%94%E7%8E%87%E8%A7%A3%E9%87%8B%E8%88%87%E6%96%87%E7%8D%BB.pdf)
+* [財務比率解釋與文獻](https://github.com/cherrytora/SCU_ML/blob/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/%E8%B2%A1%E5%8B%99%E6%AF%94%E7%8E%87%E8%A7%A3%E9%87%8B%E8%88%87%E6%96%87%E7%8D%BB.pdf)  
 [文檔都放在會議記錄的資料夾裡](https://github.com/cherrytora/SCU_ML/tree/main/%E5%B0%88%E9%A1%8C%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
